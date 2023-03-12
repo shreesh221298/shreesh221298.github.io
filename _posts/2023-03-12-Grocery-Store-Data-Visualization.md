@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Grocery store data visualization to improve business
-image: "/posts/Data.png"
+image: "/posts/grocery-store-data-visualization.png"
 tags: [Data Visualization, Python, Business Analysis]
 ---
 
