@@ -15,7 +15,7 @@ ACME Corp is a mock grocery store client that needs a data scientist to use its 
     - [Results](#overview-results)
     - [Next Steps](#overview-growth)
     - [Key Definition](#overview-definition)
-- [01. Code](#data-overview)
+- [01. Python Code](#python-code)
 
 ___
 
