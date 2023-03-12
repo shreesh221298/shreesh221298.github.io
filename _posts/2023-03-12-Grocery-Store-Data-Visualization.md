@@ -398,5 +398,5 @@ plt.grid(which='minor', axis='x', linewidth=0.4)
 
 ```
 
-![image](https://user-images.githubusercontent.com/47675756/224532638-65ee7ec2-0d88-435f-be76-43b2a5ff5917.png)
+
 
